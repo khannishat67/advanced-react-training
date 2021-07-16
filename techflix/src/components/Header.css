@@ -1,0 +1,21 @@
+.app-header {
+    background: #0967b2;
+    padding: 16px;
+    
+}
+.app-header .brand {
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.app-header .link {
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 8px;
+    text-decoration: none;
+}
+.active {
+    color: red !important;
+}

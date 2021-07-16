@@ -1,0 +1,23 @@
+.grid-box {
+    flex: 1;
+   margin: 5px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.column-1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.column-2 {
+    flex: 1;
+    flex-direction: row;
+    align-items: stretch;
+}
+.container-box {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}

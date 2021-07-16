@@ -1,0 +1,18 @@
+.post-container {
+    padding: 8px;
+    margin: 16px 0;
+    background: white;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+}
+.author {
+    color: #0000ff;
+    font-size: 18px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+}
+.status {
+    font-size: 24px;
+}
