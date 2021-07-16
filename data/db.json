@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "status": "some value",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "status": "Learning react",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "status": "Learning react Again",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "status": "Post added",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "status": "Some other post",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "status": "A new post added",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "status": "Create a post",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "status": "looks better",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "status": "Some post",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "status": "",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "status": "",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "status": "",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "status": "Some Post we can use",
+      "author": "Nishat",
+      "likes": 0,
+      "id": 23
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "mark"
+    },
+    {
+      "id": 2,
+      "userName": "steve"
+    },
+    {
+      "id": 3,
+      "userName": "bill"
+    },
+    {
+      "id": 4,
+      "userName": "nishat"
+    }
+  ],
+  "products": [
+    {
+      "name": "Product X",
+      "price": 360,
+      "id": 4
+    },
+    {
+      "name": "Product X",
+      "price": 360,
+      "id": 7
+    },
+    {
+      "name": "Product X",
+      "price": 360,
+      "id": 8
+    }
+  ]
+}

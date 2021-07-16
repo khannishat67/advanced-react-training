@@ -1,0 +1,34 @@
+Basic Concepts of React, JSX, Components
+HTML CSS JS (ES6) Node
+UI Library
+
+Website & WebApp
+
+WebApp - make an application portable
+
+V8 Engine 
+document.getElementById
+Notes 
+Add and View notes
+
+JQuery
+Angular , React, Vue -> Transpile into vanilla JS
+Typescript, JS / Typescript, JS (ES6) -> ES5
+
+Babel ES6 -> ES5 
+Webpack
+
+React Hooks
+React Context API
+React Redux,
+React Router,
+React Loadable,
+3rd Party Libraries
+ReactiveX JS (Observables)
+
+Typescript -> JS
+React with Typescript
+
+Classes in JS
+
+    
